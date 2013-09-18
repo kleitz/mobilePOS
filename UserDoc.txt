@@ -1,0 +1,9 @@
+Installation Instructions:
+1. Download the mobilePOS.apk file from github to your computer.
+2. Connect the android device to the computer. Be sure to enable USB debugging on the device. To do that go to Settings>Developer Option.
+3. Copy the mobilePOS.apk file to any folder in your android device.
+4. Open the mobilePOS.apk file in your android device and follow the instructions to install the app.
+
+Usage Instructions:
+1. Find the installed app (mobilePOS) in your android device and open the app. Ensure that your phone is connected to the internet.
+2. Follow the screen details.
